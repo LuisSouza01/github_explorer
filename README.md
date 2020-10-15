@@ -1,21 +1,22 @@
 # GitHub_Explorer
 
-## About
-A clone of the Twitter responsive interface developed with ReactJS.
+## Sobre
+Uma aplicação web desenvolvida com a API do GitHub, com a função de listar repositórios e as issues do repositório em questão. 
 
-desktop_computer Technologies
-white_check_mark ReactJS
-white_check_mark TypeScript
-white_check_mark Styled Components
+## Tecnologias
+ReactJS </br>
+TypeScript </br>
+Styled Components </br>
+Axios </br>
+React Router </br>
 
+## Como usar
 
-gear How to use
-
-Cloning repository and running
+**Clonando o repositório**
 $ git clone https://github.com/LuisSouza01/twitter-clone-react && cd twitter-clone-react
 
-Installing dependencies
+**Instalando as dependências**
 $ yarn
 
-Getting Started
+**Iniciando a aplicação**
 $ yarn start
