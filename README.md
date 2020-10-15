@@ -14,7 +14,7 @@ Styled Components </br>
 Axios </br>
 React Router </br>
 
-## Como usar
+## Como utilizar
 
 **Clonando o repositório** </br>
 $ git clone https://github.com/LuisSouza01/github_explorer && cd github_explorer
