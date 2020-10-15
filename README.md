@@ -1,5 +1,9 @@
 # GitHub_Explorer
 
+## Demonstração
+![github_explorer](https://user-images.githubusercontent.com/68693408/96166976-165e7e80-0ef5-11eb-89d6-7b0c9ea74ad6.gif)
+
+
 ## Sobre
 Uma aplicação web desenvolvida com a API do GitHub, com a função de listar repositórios e as issues do repositório em questão. 
 
