@@ -12,11 +12,11 @@ React Router </br>
 
 ## Como usar
 
-**Clonando o repositório**
-$ git clone https://github.com/LuisSouza01/twitter-clone-react && cd twitter-clone-react
+**Clonando o repositório** </br>
+$ git clone https://github.com/LuisSouza01/github_explorer && cd github_explorer
 
-**Instalando as dependências**
+**Instalando as dependências** </br>
 $ yarn
 
-**Iniciando a aplicação**
+**Iniciando a aplicação** </br>
 $ yarn start
